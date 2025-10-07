@@ -52,4 +52,4 @@ Clone repositori ini.
 
 1. Buka proyek menggunakan Katalon Studio.
 
-2. Jalankan Test Suite Collection bernama _Main_Exc untuk mengeksekusi semua tes.
+2. Jalankan Test Suite Collection bernama Main_Exc untuk mengeksekusi semua tes.
